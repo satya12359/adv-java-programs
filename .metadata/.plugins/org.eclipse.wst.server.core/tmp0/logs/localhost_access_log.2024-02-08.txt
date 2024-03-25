@@ -1,0 +1,17 @@
+127.0.0.1 - - [08/Feb/2024:16:25:03 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:16:25:03 +0530] "GET /ProductBillApplication/ HTTP/1.1" 404 778
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:16:25:04 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:16:26:38 +0530] "GET /ProductBillApplication/Product.HTML HTTP/1.1" 404 790
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:16:26:45 +0530] "GET /ProductBillApplication/Product.HTML HTTP/1.1" 404 790
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:16:26:48 +0530] "GET /ProductBillApplication/Product.HTML HTTP/1.1" 404 790
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:16:26:59 +0530] "GET /ProductBillApplication/Product.html HTTP/1.1" 404 790
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:16:28:43 +0530] "GET /ProductBillApplication/product.html HTTP/1.1" 404 790
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:16:34:36 +0530] "GET /ProductBillApplication/Product.Servlet HTTP/1.1" 404 793
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:16:34:55 +0530] "GET /ProductBillApplication/ProductServlet HTTP/1.1" 500 1291
+127.0.0.1 - - [08/Feb/2024:18:19:50 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:18:19:51 +0530] "GET /ProductBillApplication/ProductServlet HTTP/1.1" 500 1291
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:18:20:08 +0530] "GET /ProductBillApplication/ProductServletproduct.html HTTP/1.1" 404 804
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:18:20:38 +0530] "GET /ProductBillApplication/ProductServlet HTTP/1.1" 500 1291
+127.0.0.1 - - [08/Feb/2024:18:24:45 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:18:24:46 +0530] "GET /ProductBillApplication/ HTTP/1.1" 404 778
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:18:25:29 +0530] "GET /ProductBillApplication/Product.Servlet HTTP/1.1" 404 793
